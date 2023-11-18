@@ -1,4 +1,4 @@
-module micro-service-go-component/redisx
+module github.com/yunduan16/micro-service-go-component-redisx
 
 go 1.16
 
